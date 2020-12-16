@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
         popularFoodList.add(new PopularFood("Pizza", "R85.00",R.drawable.pizza));
         popularFoodList.add(new PopularFood("Lasagna", "R100.00",R.drawable.lasagna));
         popularFoodList.add(new PopularFood("Nachos", "R135.00",R.drawable.nachos));
-        popularFoodList.add(new PopularFood("Burger", "R60.00",R.drawable.burger));
+        popularFoodList.add(new PopularFood("Burger", "R60.00",R.drawable.big_mac));
         popularFoodList.add(new PopularFood("Ribs", "R120.00",R.drawable.ribs));
         popularFoodList.add(new PopularFood("Wings", "R55.00",R.drawable.wings));
         popularFoodList.add(new PopularFood("Fish & Chips", "R85.00",R.drawable.fish));
